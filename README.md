@@ -81,7 +81,6 @@ Durante a importação o sistema pode:
 
 - Scriptcase 9.x
 - PHP
-- PostgreSQL
 - XML SEFAZ
 - Impressão ESC/POS
 
