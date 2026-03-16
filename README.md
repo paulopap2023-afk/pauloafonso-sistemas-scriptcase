@@ -126,8 +126,8 @@ Durante a importação o sistema pode:
 
 Caso tenha interesse no projeto ou queira mais informações:
 
-📧 Email: seuemail@email.com  
-💬 WhatsApp: (seu número)
+📧 Email: paulopap2023@gmail.com  
+💬 WhatsApp: (48) 99622.6448
 
 ---
 
