@@ -112,6 +112,12 @@ Durante a importação o sistema pode:
 
 ---
 
+## Cupom NFCe
+
+![Cupom](fiscal.png)
+
+---
+
 # 🎯 Ideal para
 
 ✔ Desenvolvedores **Scriptcase**  
