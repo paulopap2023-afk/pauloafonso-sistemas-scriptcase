@@ -116,6 +116,9 @@ Durante a importação o sistema pode:
 
 ![Cupom](cupom.png)
 
+---
+
+## Cupom NFCe
 
 ![Cupom](cupom_2.png)
 
@@ -141,7 +144,6 @@ Durante a importação o sistema pode:
 Caso tenha interesse no projeto ou queira mais informações:
 
 📧 Email: paulopap2023@gmail.com  
-💬 WhatsApp: (48) 99622.6448
 
 ---
 
