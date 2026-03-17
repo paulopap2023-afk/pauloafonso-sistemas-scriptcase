@@ -117,7 +117,7 @@ Durante a importação o sistema pode:
 ![Cupom](cupom.png)
 
 
-![Cupom](cupom2.png)
+![Cupom](cupom_2.png)
 
 ---
 
