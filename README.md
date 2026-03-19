@@ -76,6 +76,14 @@ O sistema possui uma **view consolidada de caixa**, apresentando:
 
 ---
 
+💰 4. Diferencial comercial
+
+👉 “Emissão NFC-e em tempo real (síncrona) sem travamentos”
+👉 “Tratamento automático de rejeições SEFAZ”
+👉 “Histórico completo de XML e protocolo”
+
+---
+
 ## 📥 Importação Inteligente de XML
 
 O sistema possui um módulo de **importação automática de XML de NF-e**.
