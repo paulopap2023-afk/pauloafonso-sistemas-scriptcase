@@ -76,7 +76,7 @@ O sistema possui uma **view consolidada de caixa**, apresentando:
 
 ---
 
-💰 4. Diferencial comercial
+## 💰 Diferencial comercial
 
 👉 “Emissão NFC-e em tempo real (síncrona) sem travamentos”
 👉 “Tratamento automático de rejeições SEFAZ”
