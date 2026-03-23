@@ -1,6 +1,6 @@
 ![ScriptFiscal](banner.png)
 
-# 🚀 PROJETO NFe / NFCe 2026
+# 🚀 PROJETO NFe / NFCe 2026 - Código Fonte
 
 Preparado para a Reforma Tributária 2026
 
@@ -44,26 +44,10 @@ O ScriptFiscal automatiza decisões fiscais críticas:
 ## 🛒 PDV Completo
 
 ✔ Venda direta no **PDV**  
-✔ Emissão automática de **NFC-e**  
-✔ Controle de operadores  
-✔ Configuração de **múltiplos PDVs**  
-✔ Suporte para bobinas **58mm e 80mm**
-
----
-
-## 💰 Controle de Caixa
-
-✔ Abertura de caixa  
-✔ Fechamento de caixa  
-✔ Sangria  
-✔ Suprimento  
-✔ Controle de movimentação financeira
-
-O sistema possui uma **view consolidada de caixa**, apresentando:
-
-- saldo anterior  
-- movimentações do dia  
-- saldo atual
+✔ Emissão automática de **NFC-e**
+✔ Impressão direta em **impressoras térmicas ESC/POS**  
+✔ Impressão de **QR Code da NFC-e**  
+✔ Impressão de **logo no cabeçalho do cupom**  
 
 ---
 
@@ -78,9 +62,9 @@ O sistema possui uma **view consolidada de caixa**, apresentando:
 
 ## 💰 Diferencial comercial
 
-👉 “Emissão NFC-e em tempo real (síncrona) sem travamentos”
-👉 “Tratamento automático de rejeições SEFAZ”
-👉 “Histórico completo de XML e protocolo”
+👉 Emissão NFC-e em tempo real (síncrona) sem travamentos
+👉 Tratamento automático de rejeições SEFAZ
+👉 Histórico completo de XML e protocolo
 
 ---
 
@@ -95,24 +79,6 @@ Durante a importação o sistema pode:
 ✔ Atualizar ou cadastrar **produtos**  
 ✔ Atualizar dados fiscais dos produtos  
 ✔ Registrar entrada de documentos fiscais
-
----
-
-## 🖨 Impressão de Cupom NFC-e
-
-✔ Impressão direta em **impressoras térmicas ESC/POS**  
-✔ Impressão de **QR Code da NFC-e**  
-✔ Impressão de **logo no cabeçalho do cupom**  
-✔ Configuração de impressora por **PDV**
-
----
-
-# ⚙ Tecnologias Utilizadas
-
-- Scriptcase 9.x
-- PHP
-- XML SEFAZ
-- Impressão ESC/POS
 
 ---
 
