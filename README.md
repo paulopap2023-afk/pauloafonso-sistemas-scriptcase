@@ -14,8 +14,8 @@ Projeto base para desenvolvimento de **sistemas comerciais e ERP**, com integra√
 ## Demonstracao do Sistema
 
 ![PDV](pdv.png)
-![NFCe](pdv3.png)
-![Caixa](pdv2.png)
+![NFCe](cupom.png)
+![NFe](danfe2.png)
 
 ---
 
