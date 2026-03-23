@@ -11,6 +11,13 @@ Sistema completo de **NF-e / NFC-e + PDV** desenvolvido em **Scriptcase**.
 Projeto base para desenvolvimento de **sistemas comerciais e ERP**, com integração fiscal, financeira e operacional.
 
 ---
+## Demonstracao do Sistema
+
+![PDV](pdv.png)
+![NFCe](pdv3.png)
+![Caixa](pdv2.png)
+
+---
 
 # 📌 Principais Recursos
 
