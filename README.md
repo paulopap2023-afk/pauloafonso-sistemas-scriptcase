@@ -113,67 +113,67 @@ Durante a importação o sistema pode:
 
 ## Tela do PDV
 
-![PDV](pdv.png)
+![PDV](img/pdv.png)
 
 ---
 
 ## Emissão de NFCe
 
-![NFCe](pdv3.png)
+![NFCe](img/pdv3.png)
 
 ---
 
 ## Fechamento de NFCe
 
-![Caixa](pdv2.png)
+![Caixa](img/pdv2.png)
 
 ---
 
 ## Cupom NFCe
 
-![Cupom](cupom.png)
+![Cupom](img/cupom.png)
 
 ---
 
 ## Cupom NFCe
 
-![Cupom](cupom_2.png)
+![Cupom](img/cupom_2.png)
 
 ---
 
 ## Cupom NFCe
 
-![Cupom](cupom2.png)
+![Cupom](img/cupom2.png)
 
 ---
 
 ## Tela da NFe
 
-![NFe](tela1.png)
+![NFe](img/tela1.png)
 
 ---
 
-![NFe](tela2.png)
+![NFe](img/tela2.png)
 
 ---
 
-![NFe](tela3.png)
+![NFe](img/tela3.png)
 
 ---
 
-![NFe](tela4.png)
+![NFe](img/tela4.png)
 
 ---
 
-![NFe](tela5.png)
+![NFe](img/tela5.png)
 
 ---
 
-![NFe](danfe3.png)
+![NFe](img/danfe3.png)
 
 ---
 
-![NFe](danfe.png)
+![NFe](img/danfe.png)
 
 ---
 
