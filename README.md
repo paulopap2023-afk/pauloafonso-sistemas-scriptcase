@@ -177,6 +177,22 @@ Durante a importação o sistema pode:
 
 ---
 
+![Lista1](img/lista1.png)
+
+---
+
+![Lista2](img/lista2.png)
+
+---
+
+![Nota](img/nota1.png)
+
+---
+
+![Tabelas Reforma](img/tela6.png)
+
+---
+
 # 🎯 Ideal para
 
 ✔ Desenvolvedores **Scriptcase**  
