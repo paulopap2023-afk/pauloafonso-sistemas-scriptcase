@@ -8,10 +8,8 @@ Projeto Profissional em Scriptcase 9.x
 
 Sistema completo de **NF-e / NFC-e + PDV** desenvolvido em **Scriptcase**.
 
-Projeto base para desenvolvimento de **sistemas comerciais e ERP**, com integração fiscal, financeira e operacional.
-
 ---
-## Demonstracao do Sistema
+## Demonstracao
 
 ![PDV](img/pdv.png)
 ![NFCe](img/cupom.png)
@@ -52,7 +50,6 @@ O Gestoweb2026 automatiza decisões fiscais críticas:
 ✔ Venda direta no **PDV**  
 ✔ Emissão automática de **NFC-e**
 ✔ Impressão direta local em **impressoras térmicas ESC/POS**  
-✔ Impressão de **QR Code da NFC-e**  
 ✔ Impressão de **logo no cabeçalho do cupom**  
 
 ---
@@ -68,7 +65,7 @@ O Gestoweb2026 automatiza decisões fiscais críticas:
 
 ## 💰 Diferencial comercial
 
-👉 Emissão NFC-e em tempo real (síncrona) sem travamentos
+👉 Emissão NFC-e em tempo real (síncrona) evita travamentos
 👉 Tratamento automático de rejeições SEFAZ
 👉 Histórico completo de XML e protocolo
 
@@ -76,39 +73,24 @@ O Gestoweb2026 automatiza decisões fiscais críticas:
 
 ## 📥 Importação Inteligente de XML
 
-O sistema possui um módulo de **importação automática de XML de NF-e**.
-
 Durante a importação o sistema pode:
 
 ✔ Cadastrar automaticamente **fornecedores**  
 ✔ Cadastrar automaticamente **clientes**  
 ✔ Atualizar ou cadastrar **produtos**  
-✔ Atualizar dados fiscais dos produtos  
-✔ Registrar entrada de documentos fiscais
 
 ---
 
-## 💼 Por que escolher o projeto erpweb2026?
+## 💼 O projeto erpweb2026?
 
 ✔ Reduz erros e rejeições na SEFAZ  
 ✔ Automatiza regras fiscais complexas  
-✔ Acelera o desenvolvimento de sistemas ERP  
 ✔ Pronto para legislação atual e futura  
 ✔ Estrutura profissional e escalável  
 
 ---
 
-## 🏆 Diferenciais Técnicos
-
-✔ Emissão NFC-e síncrona sem travamentos  
-✔ Tratamento automático de rejeições  
-✔ Estrutura pronta para múltiplas empresas  
-✔ Histórico completo de XML e protocolos  
-✔ Arquitetura pronta para expansão (ERP)
-
----
-
-# 🖥 Demonstração do Sistema
+# 🖥 Demonstração
 
 ## Tela do PDV
 
