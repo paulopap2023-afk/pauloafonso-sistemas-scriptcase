@@ -33,7 +33,7 @@ Sistema completo de **NF-e / NFC-e + PDV** desenvolvido em **Scriptcase**.
 
 Chega de perder tempo corrigindo NF rejeitada.
 
-O Gestoweb2026 automatiza decisões fiscais críticas:
+O Gestoweb2026 automatiza decisões fiscais:
 
 🔹 Detecta automaticamente operações interestaduais  
 🔹 Aplica regras fiscais conforme a legislação vigente  
@@ -84,7 +84,7 @@ Durante a importação o sistema pode:
 ## 💼 O projeto erpweb2026?
 
 ✔ Reduz erros e rejeições na SEFAZ  
-✔ Automatiza regras fiscais complexas  
+✔ Automatiza regras fiscais   
 ✔ Pronto para legislação atual e futura  
 ✔ Estrutura profissional e escalável  
 
@@ -178,7 +178,6 @@ Durante a importação o sistema pode:
 
 ✔ Desenvolvedores **Scriptcase**  
 ✔ Sistemas de **automação comercial**  
-✔ Desenvolvimento de **ERP**  
 ✔ Sistemas de **gestão empresarial**
 
 ---
