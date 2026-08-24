@@ -212,7 +212,7 @@ Projeto Profissional em Scriptcase 9.x / 10.x
 
 Caso tenha interesse no projeto ou queira mais informações:
 
-📧 Email: paulopap2023@gmail.com  
+📧 Email: paulopap2023@gmail.com + Dúvidas: Solicite whatsapp sem compromisso.
 
 ---
 
