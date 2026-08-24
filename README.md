@@ -118,12 +118,6 @@ Durante a importação o sistema pode:
 
 ## Cupom NFCe
 
-![Cupom](img/cupom_2.png)
-
----
-
-## Cupom NFCe
-
 ![Cupom](img/cupom2.png)
 
 ---
