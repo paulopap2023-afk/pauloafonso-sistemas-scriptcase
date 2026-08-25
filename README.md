@@ -198,6 +198,42 @@ Projeto Profissional em Scriptcase 9.x / 10.x
 ---
 
 ---
+
+### 📋 RECURSOS DO MDF-e
+
+✅ Emissão do MDF-e — Modal Rodoviário
+✅ Assinatura digital e transmissão para a SEFAZ
+✅ Consulta do status do MDF-e
+✅ Cancelamento
+✅ Encerramento do MDF-e
+✅ Controle de veículos próprios e de terceiros
+✅ Veículo de tração e **reboques**
+✅ Controle de proprietários de veículos
+✅ Cadastro e controle de condutores
+✅ Cadastramento de condutores **online/em rota**
+✅ Municípios de carregamento
+✅ Municípios de descarregamento
+✅ Documentos fiscais vinculados ao MDF-e
+✅ Controle do status da transmissão
+✅ Armazenamento do XML autorizado
+✅ Download dos últimos XMLs da NF-e da SEFAZ via **Último NSU**
+✅ Download dos últimos XMLs do MDF-e da SEFAZ via **Último NSU**
+
+### 🚛 CONTROLES OPERACIONAIS
+
+O projeto também contempla recursos específicos do transporte rodoviário:
+
+✅ **Reboques** vinculados ao veículo
+✅ **Lacres rodoviários**
+✅ **Vale-Pedágio**
+✅ **Contratante do serviço de transporte**
+✅ **CIOT — Código Identificador da Operação de Transporte**
+✅ Informações de transporte e contratação
+✅ Controle de veículos próprios e terceirizados
+✅ Informações do proprietário do veículo quando aplicável
+
+Tudo estruturado para que o MDF-e faça parte efetivamente do seu **ERP/SaaS**, e não seja apenas uma emissão fiscal isolada.
+
 ---
 
 # 🎯 Ideal para
