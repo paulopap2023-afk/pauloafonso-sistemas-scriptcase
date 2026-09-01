@@ -168,6 +168,99 @@ Durante a importação o sistema pode:
 
 ---
 
+---
+
+
+# 🚀 PROJETO com CTe 
+
+**Seu SaaS/ERP também precisa emitir CT-e?**
+
+**Projeto Profissional em Scriptcase 9.x / 10.x
+
+**Conhecimento de Transporte Eletrônico (CT-e)**
+
+
+![Telacte 01](img/cte_01.png)
+
+---
+![Telacte 02](img/cte_02.png)
+
+---
+![Telacte 03](img/cte_03.png)
+
+---
+![Telacte 04](img/cte_04.png)
+
+---
+![Telacte 05](img/cte_05.png)
+
+---
+![Tela 06](img/cte_06.png)
+
+---
+![Tela 07](img/cte_07.png)
+---
+---
+
+** PROJETO COM OS CÓDIGOS-FONTE PARA EMISSAO DE: NF-e, NFC-e, CT-e e MDF-e **
+
+
+✅ Emissão de **CT-e – Modelo 57**
+✅ Geração e assinatura do XML
+✅ Comunicação com a **SEFAZ**
+✅ Autorização e protocolo
+✅ Cancelamento
+✅ Eventos fiscais
+✅ Consulta de status
+✅ Armazenamento do XML
+✅ Controle dos documentos emitidos
+✅ Integração com **NF-e**
+✅ Integração com **MDF-e**
+✅ Estrutura preparada para evolução da legislação fiscal
+✅ Desenvolvimento integrado ao Scriptcase
+
+📦 **E não para por aí!**
+
+O projeto já trabalha com outros documentos e recursos fiscais, permitindo construir uma estrutura completa para seu **ERP/SaaS**, incluindo:
+
+📄 **NF-e**
+🧾 **NFC-e**
+🚛 **CT-e**
+🚚 **MDF-e**
+💰 **Financeiro**
+🧮 **Reforma Tributária – IBS, CBS**
+💳 **Split Payment**
+📦 **Estoque**
+🛒 **PDV**
+
+ Eventos do Emissor
+- Cancelamento do CT-e
+- Carta de Correção
+- Etc.
+Eventos do Destinatário
+- Confirmação de recebimento
+- Desacordo
+Eventos da SEFAZ
+- Autorização do CT-e
+- Rejeição
+- Denegação
+Eventos de Terceiros
+- Transposição de fronteira (Aduana)
+- Internamento (SUFRAMA)
+- Etc.
+
+Tudo desenvolvido com foco em **integração, automação e controle fiscal dentro do próprio sistema**.
+
+💡 **Você não precisa depender de um sistema fiscal separado para cada documento.**
+
+A proposta é transformar o **Scriptcase em uma verdadeira plataforma SaaS/ERP**, centralizando operação, financeiro, estoque e documentos fiscais em uma única solução.
+
+🔧 **Projeto com código-fonte e estrutura para desenvolvimento e personalização.**
+
+Se você desenvolve sistemas em **Scriptcase** e quer agregar emissão fiscal ao seu projeto, essa estrutura pode acelerar muito o desenvolvimento do seu SaaS/ERP.
+
+---
+---
 
 # 🚀 PROJETO com MDFe 
 
