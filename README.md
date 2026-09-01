@@ -234,16 +234,20 @@ O projeto já trabalha com outros documentos e recursos fiscais, permitindo cons
 🛒 **PDV**
 
  Eventos do Emissor
+ 
 - Cancelamento do CT-e
 - Carta de Correção
 - Etc.
+  
 Eventos do Destinatário
 - Confirmação de recebimento
 - Desacordo
+  
 Eventos da SEFAZ
 - Autorização do CT-e
 - Rejeição
 - Denegação
+  
 Eventos de Terceiros
 - Transposição de fronteira (Aduana)
 - Internamento (SUFRAMA)
