@@ -1,6 +1,6 @@
 ![Gestoweb2026](img/banner.png)
 
-# 🚀 PROJETO NF-e / NFC-e / CT-e MDF-e 2026 - Código Fonte
+# 🚀 PROJETO NF-e / NFC-e / CT-e / MDF-e 2026 - Código Fonte
 
 Preparado para a Reforma Tributária 2026
 
