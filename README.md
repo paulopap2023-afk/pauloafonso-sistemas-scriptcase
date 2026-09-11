@@ -168,6 +168,43 @@ Durante a importação o sistema pode:
 
 ---
 
+🧾 DANFE Simplificado
+
+É indicado quando a empresa precisa acompanhar a mercadoria com uma representação mais compacta da NF-e, sem necessariamente utilizar o DANFE tradicional em folha A4.
+
+Exemplos de comércio:
+
+🛒 Comércio varejista — lojas de roupas, calçados, móveis, eletrônicos etc.
+📦 E-commerce — vendas pela internet.
+🏪 Atacadistas e distribuidores.
+🚚 Empresas de distribuição.
+🏭 Indústrias que fazem expedição de produtos.
+📦 Empresas que precisam de uma documentação simplificada junto à mercadoria.
+
+![NFe](img/danfe_s.png)
+
+---
+
+🏷️ DANFE Simplificado - Etiqueta
+
+O DANFE Etiqueta é ainda mais voltado para logística e identificação física da embalagem.
+
+É muito comum em:
+
+📦 E-commerce
+🚚 Transportadoras e operadores logísticos
+🏬 Centros de distribuição
+📦 Fulfillment
+🛒 Marketplaces
+🏭 Indústrias com expedição
+🏪 Empresas que enviam grande quantidade de encomendas
+
+A ideia é imprimir uma representação pequena, normalmente em etiqueta, contendo informações necessárias para identificar a NF-e e a mercadoria, inclusive código de barras/chave de acesso conforme o modelo adotado.
+
+![NFe](img/danfe_e.png)
+
+
+---
 ---
 
 
