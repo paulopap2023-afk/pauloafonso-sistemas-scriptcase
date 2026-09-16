@@ -217,6 +217,9 @@ A ideia é imprimir uma representação pequena, normalmente em etiqueta, conten
 **Conhecimento de Transporte Eletrônico (CT-e)**
 
 
+![Telacte 00](img/cte_dacte.png)
+
+---
 ![Telacte 01](img/cte_01.png)
 
 ---
