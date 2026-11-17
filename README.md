@@ -11,7 +11,7 @@ Projeto Profissional em Scriptcase 9.x / 10.x
 Sistema completo de **NF-e / NFC-e + PDV / CT-e / MDFe - ** desenvolvido em **Scriptcase**.
 
 ---
-## Demonstracao
+## Demonstração
 
 ![PDV](img/pdv.png)
 ![NFCe](img/cupom.png)
