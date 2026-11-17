@@ -1,12 +1,12 @@
 ![Gestoweb2026](img/banner.png)
 
-# 🚀 PROJETO NF-e / NFC-e / CT-e / MDF-e 2026 - Código Fonte
+# 🚀 PROJETO NF-e / NFC-e / CT-e  / MDF-e - Código Fonte
 
-Preparado para a Reforma Tributária 2026
+Preparado para a Reforma Tributária
 
 Projeto Profissional em Scriptcase 9.x / 10.x
 
-Sistema completo de **NF-e / NFC-e + PDV / MDFe** desenvolvido em **Scriptcase**.
+Sistema completo de **NF-e / NFC-e + PDV / CT-e / MDFe - ** desenvolvido em **Scriptcase**.
 
 ---
 ## Demonstracao
@@ -33,7 +33,7 @@ Sistema completo de **NF-e / NFC-e + PDV / MDFe** desenvolvido em **Scriptcase**
 
 Chega de perder tempo corrigindo NF rejeitada.
 
-O Gestoweb2026 automatiza decisões fiscais:
+O Gestoweb automatiza decisões fiscais:
 
 🔹 Detecta automaticamente operações interestaduais  
 🔹 Aplica regras fiscais conforme a legislação vigente  
@@ -81,7 +81,7 @@ Durante a importação o sistema pode:
 
 ---
 
-## 💼 O projeto erpweb2026?
+## 💼 O projeto gestorweb?
 
 ✔ Reduz erros e rejeições na SEFAZ  
 ✔ Automatiza regras fiscais   
