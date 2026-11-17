@@ -1,4 +1,4 @@
-![Gestoweb2026](img/banner.png)
+![Gestoweb](img/banner.png)
 
 # 🚀 PROJETO - Código Fonte - Reforma Tributária 
 
