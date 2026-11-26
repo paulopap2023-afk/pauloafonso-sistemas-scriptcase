@@ -374,6 +374,55 @@ O projeto também contempla recursos específicos do transporte rodoviário:
 Tudo estruturado para que o MDF-e faça parte efetivamente do seu **ERP/SaaS**, e não seja apenas uma emissão fiscal isolada.
 
 ---
+---
+
+# 🚀 CONTROLE MEI COMPLETO 
+
+**Mais organização, praticidade e controle para quem é MEI!**
+
+O GestorWeb conta com um módulo especialmente desenvolvido para facilitar a gestão das obrigações do Microempreendedor Individual.
+
+Agora, você tem muito mais controle sobre o faturamento, o DAS e os pagamentos da sua empresa, tudo integrado ao seu sistema de gestão!
+
+💼 **CONHEÇA OS RECURSOS DO MÓDULO MEI:**
+
+✅ **Controle de Faturamento Mensal**  
+Registre o faturamento de cada mês e acompanhe automaticamente o acumulado anual.
+
+✅ **Acompanhamento do Limite Anual**  
+Visualize o limite de faturamento, identifique excessos e acompanhe a evolução da sua receita.
+
+✅ **Geração do DAS Mensal**  
+Calcule os valores de INSS, ICMS e ISS conforme a atividade e os parâmetros cadastrados.
+
+✅ **Controle de Multas e Juros**  
+Tenha recursos para calcular os encargos decorrentes de atrasos no pagamento.
+
+✅ **Gestão de Pagamentos**  
+Registre a quitação do DAS, com data, valor, forma de pagamento e informações de autenticação.
+
+✅ **Integração com o Movimento de Caixa**  
+Os pagamentos do DAS MEI passam a integrar o controle financeiro do sistema, facilitando o acompanhamento das despesas tributárias.
+
+✅ **Acesso direto ao PGMEI**  
+Com apenas um clique, acesse o portal oficial da Receita Federal, com facilidade para copiar o CNPJ e emitir a guia oficial de arrecadação.
+
+📊 **MAIS CONTROLE. MENOS COMPLICAÇÃO. MAIS GESTÃO!**
+
+O objetivo é oferecer ao empreendedor e ao profissional contábil uma ferramenta que facilite o acompanhamento das obrigações do MEI, reduza tarefas manuais e centralize informações importantes.
+
+
+![Tela 01](img/mei01.png)
+
+---
+![Tela 02](img/mei02.png)
+
+---
+![Tela 03](img/mei03.png)
+
+---
+![Tela 04](img/mei04.png)
+---
 
 # 🎯 Ideal para
 
