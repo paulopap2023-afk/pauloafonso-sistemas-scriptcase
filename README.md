@@ -412,16 +412,16 @@ Com apenas um clique, acesse o portal oficial da Receita Federal, com facilidade
 O objetivo é oferecer ao empreendedor e ao profissional contábil uma ferramenta que facilite o acompanhamento das obrigações do MEI, reduza tarefas manuais e centralize informações importantes.
 
 
-![Tela 01](img/mei01.png)
+![Tela 01](img/mei_01.png)
 
 ---
-![Tela 02](img/mei02.png)
+![Tela 02](img/mei_02.png)
 
 ---
-![Tela 03](img/mei03.png)
+![Tela 03](img/mei_03.png)
 
 ---
-![Tela 04](img/mei04.png)
+![Tela 04](img/mei_04.png)
 ---
 
 # 🎯 Ideal para
